@@ -6,11 +6,11 @@ All my websites are self hosted, except for a few.
 
 ---
 
-## What I'm Working On
+## Work in Progress Projects
 
 - **FunnyOS** — A hobby OS written in Assembly and C, with a basic shell, windowing system, and a built-in C compiler
 - **luaX** — An extended Lua platform with a package manager, project tooling, standard library, OpenGL graphics library, and a pure-Lua IDE
-- **RoList** — A Roblox freelance and hiring marketplace - https://rolist.online
+- **RoList** — A Roblox freelance and hiring marketplace
 - **Site Phantom SCPF** — Role-based internal tooling with granular per-department permission controls
 
 ---
@@ -19,7 +19,7 @@ All my websites are self hosted, except for a few.
 
 | Project | Description | Language |
 |---|---|---|
-| [PyFs / CppFs](https://github.com/funnykayan) | Encrypted container system with near-uncrackable `.pyfs` format | Python, C++ |
+| [PyFs](https://github.com/funnykayan) | Encrypted container system with near-uncrackable `.pyfs` format | Python |
 | [esp-network-shell](https://github.com/funnykayan/esp-network-shell) | Shell-over-network for ESP32 | C++ |
 | [c-chess-computer](https://github.com/funnykayan/c-chess-computer) | Chess engine in C with a pygame frontend | C |
 
