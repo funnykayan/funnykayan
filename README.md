@@ -1,29 +1,18 @@
-# Funny
+# Welcome
 
-Developer focused on low-level systems, tooling, and game infrastructure. I build things from scratch — compilers, operating systems, engines, launchers — usually because existing solutions are either too bloated or not interesting enough to use.
+I'm funny, I do mostly random coding, both high and low level. I primarily work with languages like Python, C/C++, JS, Java and HTML. I am also currently employed by Auvion Technologies as the Director of the Development Branch, both Hardware and Software.
 
-All my websites are self hosted, except for a few.
+## My main projects
 
----
+FunnyOS - An OS made to run Java, primarily minecraft servers, still wip but is being developped. Heavily inspired by [BoredOS by Chris](https://github.com/boreddevnl/BoredOS)
+Site Phantom - A ROBLOX SCPF That's meant to kind of be unique in comparison to other SCPF's within the genre.
+LuaX - A Lua Extension program that brings 3D/2D graphics to Lua, Packaging System, Binaries and more.
+MinClient - A minimalistic Minecraft client made to bring as much performance possible while keeping core usage.
 
-## Work in Progress Projects
+## My Specializations
 
-- **FunnyOS** — A hobby OS written in Assembly and C, with a basic shell, windowing system, and a built-in C compiler
-- **luaX** — An extended Lua platform with a package manager, project tooling, standard library, OpenGL graphics library, and a pure-Lua IDE
-- **RoList** — A Roblox freelance and hiring marketplace
-- **Site Phantom SCPF** — Role-based internal tooling with granular per-department permission controls
+Cybersecurity Programming - I don't have any certificates for this, but I believe I hold a lot of knowledge within cybersecurity programming.
+Discord Automation - Primarily Bots, I made alot of Discord Bots and Automation Scripts that work with discord, currently in the process of making my own fork of Discord.py because its maintainer recently stopped and thus further development was stopped as well.
+Minecraft Development - From plugins to mods. I work with Fabric, Forge and Paper to make Plugins and Mods for minecraft.
 
----
-
-## Projects
-
-| Project | Description | Language |
-|---|---|---|
-| [PyFs](https://github.com/funnykayan) | Encrypted container system with near-uncrackable `.pyfs` format | Python |
-| [esp-network-shell](https://github.com/funnykayan/esp-network-shell) | Shell-over-network for ESP32 | C++ |
-| [c-chess-computer](https://github.com/funnykayan/c-chess-computer) | Chess engine in C with a pygame frontend | C |
-
----
-
-
-*Most of the interesting stuff gets built because it seemed like a fun problem. That's usually reason enough.*
+Feel free to contact me if you need any help with your project, im happy to help. You can reach me through my email or contact me through discord: "un_funny."
