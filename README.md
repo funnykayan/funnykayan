@@ -11,8 +11,8 @@ I'm funny, I do mostly random coding, both high and low level. I primarily work 
 
 ## My Specializations
 
-Cybersecurity Programming - I made tools for penetration testing and high level encryption and alot more with cybersecurity.
-Discord Automation - Primarily Bots, I made alot of Discord Bots and Automation Scripts that work with discord, currently in the process of making my own fork of Discord.py because I can.
+Cybersecurity Programming - I made tools for penetration testing and high level encryption and a lot more with cybersecurity.
+Discord Automation - Primarily Bots, I made a lot of Discord Bots and Automation Scripts that work with discord, currently in the process of making my own fork of Discord.py because I can.
 Minecraft Development - From plugins to mods. I work with Fabric, Forge and Paper to make Plugins and Mods for minecraft.
 
 Feel free to contact me if you need any help with your project, im happy to help. You can reach me through my email or contact me through discord: "un_funny."
